@@ -1,7 +1,3 @@
-Sure! Here's the updated README description with the link included:
-
----
-
 # British Airways Review Analysis Dashboard
 
 ## Overview
