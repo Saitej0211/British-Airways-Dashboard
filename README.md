@@ -1,9 +1,15 @@
+Sure! Here's the updated README description with the link included:
+
+---
+
 # British Airways Review Analysis Dashboard
 
 ## Overview
 This project features an interactive Tableau dashboard that analyzes customer reviews of **British Airways** across multiple service aspects. The dashboard provides valuable insights into customer satisfaction, trends over time, and performance across various aircraft types and regions.
 
 The dataset used includes reviews from 2016 to 2023, covering several key metrics such as overall rating, cabin staff service, entertainment, food and beverages, ground services, seat comfort, and value for money. The dashboard is designed to help users explore and understand customer feedback in an intuitive and visual format.
+
+🔗 **[View the dashboard on Tableau Public](https://public.tableau.com/shared/XM3NG2PT4?:display_count=n&:origin=viz_share_link)**
 
 ## Features
 - **Average Ratings**: View the overall rating and individual service aspects like cabin staff, entertainment, food, ground services, and more.
